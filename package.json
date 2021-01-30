@@ -1,0 +1,26 @@
+{
+  "name": "seqrevec",
+  "version": "1.0.0",
+  "description": "To reverse engineer the starter code that is provided in develop folder and create a tutorial for the code. At the end of the tutorial, instructions for additional changes to this project will accompany.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjohn214/SeqRevEC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjohn214/SeqRevEC/issues"
+  },
+  "homepage": "https://github.com/sjohn214/SeqRevEC#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^4.44.4"
+  }
+}
